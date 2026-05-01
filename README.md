@@ -4,8 +4,8 @@ An interactive Power BI dashboard designed to analyze sales performance, track k
 
 🚀 Live Dashboard
 
-https://app.powerbi.com/links/48FzQ2s6RL?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&pbi_source=linkShare
 
+https://app.powerbi.com/links/48FzQ2s6RL?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&pbi_source=linkShare
 
 
 📌 Overview
@@ -55,7 +55,8 @@ Highlighted opportunities to improve profit margins
 📊 Transformed raw data into actionable business insights
 🖼️ Dashboard Preview
 
-<img width="2048" height="1168" alt="image" src="https://github.com/user-attachments/assets/c11744c8-cbe1-4b48-b947-c44c9a3449c0" />
+<img width="2048" height="1168" alt="image" src="https://github.com/user-attachments/assets/d4d83a7a-97cb-4110-b21a-f0195d57ee24" />
+
 
 🚧 Future Improvements
 Integrate real-time data sources (e.g., APIs or databases)
